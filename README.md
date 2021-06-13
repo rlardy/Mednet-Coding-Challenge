@@ -1,12 +1,15 @@
 # Mednet Coding Challenge
 
 ## How to use
+1) Clone this repository.
 
-Open a command prompt window and go to the directory where you saved the java program (MedNetChallenge.java). Assume it's C:\.
+2) Open a command prompt window and go to the directory where you saved the java program (MedNetChallenge.java). Assume it's C:\.
 
-Type 'javac MedNetChallenge.java' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
+3) Type `javac MedNetChallenge.java` and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
 
-Now, type ' java MedNetChallenge ' to run your program.
+4) Now, type `java MedNetChallenge` to run your program.
+
+## "I got it running, now what?"
 
 Once running MedNetChallenge, your first input will be inputting the Input Temperature and Units (ex: 32.1 Kelvin).
 
